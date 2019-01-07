@@ -1,0 +1,7 @@
+
+# Different nation, different ecology: Comparison of ecological research features in China and the US during the recent three decades
+
+This workshop shares part of codes about research of https://doi.org/10.1016/j.gecco.2018.e00509.
+
+## ABSTRACT
+Global ecological problems demand joint effort of ecologists worldwide. The last three decades had seen an exponential growth of ecological literature. However, international collaboration did not catch up in the same pace, which might be due to the deficiency of comprehension and communication among multinational ecologists. In our study, we reviewed the literature information from 15,706 publications in journals published by the Ecological Society of America (ESA) and 28,756 publications in journals published by the Ecological Society of China (ESC). According to our findings, American papers contained more information than Chinese papers, but as paper volume increased rapidly, journals from China were able to cover a wider range of topics in ecology than the US. Considering the research content, American ecologists preferred carrying out ecological research on the theoretical level, while Chinese ecologists devoted more effort into applied ecology (especially agricultural ecology). Despite the different perspectives on ecology, both countries attached great importance to global topics such as climate change and biodiversity, which might lead to further collaboration on international ecological programs.
